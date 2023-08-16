@@ -16,14 +16,14 @@
 <h3 align="left">📌 Contact Me:</h3>
  <br>
   <div id="badges" align="center"> 
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=21052646@kiit.ac.in&su=SUBJECT&body=BODY" target="_blank">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=21051156@kiit.ac.in&su=SUBJECT&body=BODY" target="_blank">
     <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Gmail Badge" />
   </a>
-    <a href="https://t.me/Vengix"> 
+    <a href="https://t.me/priyesh1014"> 
     <img src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=Telegram&logoColor=white"alt="Telegram Badge" /> 
   </a> 
-   <a href="https://wa.link/y7e6yz" target="_blank"> 
+   <a href="https://wa.me/+917007079433" target="_blank"> 
     <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="WhatsApp Badge"/> 
 </a>
   
