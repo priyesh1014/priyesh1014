@@ -128,20 +128,7 @@
     </div> 
      <br>
     
-   <h3 align = "left" >📌 Funding:</h3>
-   <br>
-    <div align="center">
-        <a href="https://www.buymeacoffee.com/zethystN">
-        <img src ="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-        </a>
-        <a href="https://www.paypal.me/Zethyst">
-        <img src ="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-        </a>
-        <a href="https://p.paytm.me/xCTH/j01643qh">
-            <img src ="https://img.shields.io/badge/Paytm-1C2C94?style=for-the-badge&logo=paytm&logoColor=05BAF3" />
-        </a>
-    </div>
-     <br>
+   
 <h3 align="left">📌 My Github Stats:</h3>
  <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zethyst&show_icons=true&theme=tokyonight" alt="zethyst" /></p>
